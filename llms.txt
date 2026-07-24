@@ -1,0 +1,26 @@
+# Paris Heating & Cooling
+
+> Paris Heating & Cooling is a local HVAC company serving Paris, Brant/Haldimand-Norfolk, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 442-8999  |  Email: contact@parisheatingcooling.ca  |  Website: https://parisheatingcooling.ca
+
+Service areas: Paris, Brantford, Caledonia, Dunnville, Simcoe, Port Dover, Nanticoke, Ayr, Aylmer
+
+## Key pages
+
+- [Home](https://parisheatingcooling.ca/): Paris Heating & Cooling homepage with service overview and FAQ
+- [About](https://parisheatingcooling.ca/about/): About the company and service area
+- [Contact](https://parisheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://parisheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in Paris, Ontario
+- [AC Installation & Repair](https://parisheatingcooling.ca/services/ac-repair/): AC Installation & Repair in Paris, Ontario
+- [Heat Pumps](https://parisheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in Paris, Ontario
+- [Duct Cleaning](https://parisheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Paris, Ontario
+- [Thermostats](https://parisheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Paris, Ontario
+- [Ductless AC Installation](https://parisheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Paris, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Paris are answered on the homepage.
